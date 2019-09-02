@@ -1,2 +1,1 @@
-# tindog
-Learning
+TinDog Starting Files
